@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Pranshu agrahari
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front end
+- 🌱 I’m currently learning :
+-   Front end development
+-   Devops
 - 📫 How to reach me pranshuag01@gmail.com
 
 <!---
