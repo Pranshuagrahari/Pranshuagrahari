@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranshu agrahari
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end
-- 📫 How to reach me email-pranshuag01@gmail.com
+- 📫 How to reach me pranshuag01@gmail.com
 
 <!---
 Pranshuagrahari/Pranshuagrahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
