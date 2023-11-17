@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Pranshu agrahari
+- 👋 Hi, I’m Pranshu Agrahari
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning :
--   Front end development
+-    React library and Advance Javascript
 -   Devops
 - 📫 How to reach me pranshuag01@gmail.com
 
