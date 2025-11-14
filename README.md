@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning :
 -    React library and Advance Javascript
--   Devops
+-   Angular
 - 📫 How to reach me pranshuag01@gmail.com
 
 <!---
